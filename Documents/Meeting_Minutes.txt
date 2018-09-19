@@ -1,0 +1,166 @@
+
+// The purpose of the meeting minutes is to provide a BRIEF explanation of what occured at the meetings along with a very basic 
+outline of the assigned tasks based on the specificaitons of the programming assignments//
+
+
+//First Meeting 8 February 1610 in RM 340 COE Library
+
+Team member intros
+Slight overview of everyone’s abilities and coding level/experience
+Assignment overview
+Light allocation of team member roles
+
+//Second Meeting 15 Feb 1530 in RM 440 COE Library
+
+Recap of assignment
+Planning for future features to add to program
+Final assignment roles:
+Left pane: Kevin
+Right Pane: Goku
+Center: Austin
+Top: Robert
+UML/Documentation: Nic
+Started coding panes 
+Brief how-to for github
+
+//Third Meeting 22 Feb 1530 in Library Basement COE Library
+
+Consolidated work.
+Added final touches to game window.
+Proofed documentation
+Discussed future phases and route in which to get there
+
+
+//Fourth Meeting 8Mar2018 in COE Library Room 340
+
+Team met up after after receiving programming assignment requirements at 1500 on the date posted above. 
+During this meeting, the below was achieved:
+
+Robert showed team his prototype communication protocol he is using for pane communication. 
+Team worked on plan for future upgrades to the game engine along with developing interface for tile communication. 
+We planned out intent of next meeting.
+Due to spring break coming up, meeting was shorter, but still very successful.
+
+Team closed meeting at 1613.
+
+
+
+//Fifth Meeting 19Mar2018 in COE Library Room 266
+
+Team meet up at 1230 on the date posted above.
+During this meeting, the below was achieved:
+
+Team discussed how to go about creating events for the game and the structures of communication between panes.
+As a team, we planned and built the features required for this iteration, moving our team into phase 3.
+Team successfully implemented the communication interface between tiles.
+Used mouse listener to track clicking events. 
+Implemented highlights into the game panels. 
+team finished up final touches as per the assignment requirements.
+
+Team closed meeting at 1330. 
+
+
+//Sixth Meeting 29Mar2018 RM 440 COE//
+Team meet up at 1600 on the date posted above.
+During this meeting, the below was achieved:
+
+Team sought out to divy up the required task. As a team we decided:
+
+Robert was assigned to be the "Master Debugger" along with the lead on the coding project. 
+He assigned the coding task to the remainder of the team as well.
+
+Gokul was in charge of reading the byte file that we were given and 
+putting the data read from it into a format that kevin can use to create the icons the tiles will use.
+
+Kevin after given the data from Gokul was to draw the icons that represented the maze pieces.
+Each if the icons was associated with its respective id.
+
+Austin was in charge of getting the reset button to work, where when the reset button was
+clicked it would place all the tile pieces back to where they were at the start of the program.
+
+Meeting completed at 1730
+
+// Seventh Meeting 3APR2018 RM 340 COE//
+Team met up at 1300 on the date posted above.
+During this meeting, the below was achieved:
+
+After a little under a week, the team came together to converse about assigned task and the progress 
+so far prior to submitting final product. 
+
+For the most part, everything was done outside of cleaning up some code for easier readability
+along with debugging and fixing issues with the reset button code.
+
+Other than that, refer to the code to follow all changes made.
+
+Meeting completed at 1430
+
+ // 8th Meeting 5APR2018 Basement COE //
+ Team meet up at 15:45 on the date posted above.
+During this meeting, the below was achieved:
+
+This was a very successful meeting! During the meeting time,
+our team worked together and accomplished a majority of the project requirements in one go!
+
+We implemented the 90 degree rotate, along with the random starts for the game (tiles being in random rotation and location)
+
+After all was said and done, the team only has error notification left along with saving locations. 
+
+Meeting completed at 17:00
+
+//Ninth Meeting 12APR2018 Basement COE //
+
+Team met up 1600 on the ate posted above.
+The following was achieved:
+
+Team came togehter after work was divved up.
+
+Gokul showed us the implementation of the vibration for error notification
+and the saving routine was showed to us by Robert. This is a short meeting minutes as all of the 
+requirements were completed last week.
+
+Team meeting ended at 1700
+ 
+ //10th meeting 28APR2018 ENG RM 4072//
+ 
+ Team met up on saturday around 1200 to go over and work on the project.
+ 
+ Team split up tasks as follows:
+ 
+ Gokul was in charge of creating the save routine
+ Austin was in charge of creating the open and save dialog windows.
+ Kevin was tasked with the loading routine
+ Nic was in charge of the reset integration 
+ Robert is set to be a floater, helping out when people get stuck.
+ 
+ Team worked on project and split ways around 1400 on the same day.
+ 
+ 
+ //11th Meeting 1May2018 ENG RM 4072//
+ 
+ Team met up on Tuesday to finish the remainder of the iteration.
+ 
+ Team finished up project and went their separate ways at 1430 same day.
+ 
+ 
+ //12th and Final Meeting 6MAY2018 front of the enginering building//
+ 
+ Team met up in front of the engineering building on the date posted.
+ 
+ Originally, the team planned to meet up in RM4072 again, but the doors were locked.
+ During some dicussion of the locked room, the teams head coder, Robert, told us that from
+ a beautifully designed streaming procedure the team developed in the previous iterations, 
+ the current iteration would be able to be completed in roughly 4 to 5 lines of code. Joyously, the team
+ decided that this wasn't worth everyone sitting around a computer to witness the completion of the code and instead,
+ Robert decided to take up the task himself. 
+ 
+ The team then decided we would share some ideas on finishing the documentation, the task that Nic would be 
+ the lead on. Some ideas included writing more for the minutes that passed, but we felt that was a little redundent and also 
+ would involve us trying to remember things we talked about weeks prior, a task none of us were truly capable of doing honestly.
+ In the end we decided upon adding a section to the Development plan that outlined our team work and also how each iteration went in much more detail than previously. 
+ 
+ In the end, the team said their good-byes and set off to finish the project strong.
+ 
+ Team finished final meeting at 1200, on the date posted above
+ 
+ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
